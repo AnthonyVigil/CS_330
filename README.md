@@ -1,7 +1,7 @@
 # CS_330
 # CS-330: Comp Graphics and Visualization
  - How do I approach designing software?
-  - I approach designing software by first establishing a foundation from the requirements and then following the functionality of the software. It involves levels of functionality. It can be as specific as can be depending on the result or output you need.
+   - I approach designing software by first establishing a foundation from the requirements and then following the functionality of the software. It involves levels of functionality. It can be as specific as can be depending on the result or output you need.
  - What new design skills has your work on the project helped you to craft?
   - Reading the provided resources within the modules introduced me to skills that helped in creating the objects within the course such as a pyramid, cube, cylinder, and a plane. I also learned to add textures to the meshes on the objects to create a realistic image. Lighting tutorials were also provided; This allowed me to add spotlights to the scene and compliment the textures by reflecting or giving a depth feel.
  - What design process did you follow for your project work?
